@@ -12,5 +12,5 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: MyName
-
+* Name: Pham Phan Bach
+* ID: M21.ICT.002
